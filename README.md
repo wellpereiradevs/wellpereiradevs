@@ -1,8 +1,7 @@
 ### Olá! Eu sou Wellington, conhecido como wellpereiradevs 👋
+A cada desafio de código, enxergo uma valiosa oportunidade de aprendizado; cada bug enfrentado revela novos insights sobre o intrigante universo digital. Navego pelo meu caminho, explorando intricados algoritmos e diversas linguagens de programação, sempre em busca de ampliar meu conhecimento. A jornada é contínua, e a sede de aprendizado só cresce a cada linha de código escrita.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellpereiradevs/)
-
-![Wellington GitHub Status](https://github-readme-stats.vercel.app/api?username=wellpereiradevs&show_icons=true&theme=dracula)
 
 ### Tecnologias
 <div style="display: inline_block"><br/>
@@ -13,5 +12,3 @@
    <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white+">
    <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div><br>
-
-A cada desafio de código, enxergo uma valiosa oportunidade de aprendizado; cada bug enfrentado revela novos insights sobre o intrigante universo digital. Navego pelo meu caminho, explorando intricados algoritmos e diversas linguagens de programação, sempre em busca de ampliar meu conhecimento. A jornada é contínua, e a sede de aprendizado só cresce a cada linha de código escrita.
