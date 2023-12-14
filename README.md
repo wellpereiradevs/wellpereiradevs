@@ -1,5 +1,5 @@
-### Olá! Eu sou Wellington, conhecido como wellpereiradevs 👋
-A cada desafio de código, enxergo uma valiosa oportunidade de aprendizado; cada bug enfrentado revela novos insights sobre o intrigante universo digital. Navego pelo meu caminho, explorando intricados algoritmos e diversas linguagens de programação, sempre em busca de ampliar meu conhecimento. A jornada é contínua, e a sede de aprendizado só cresce a cada linha de código escrita.
+### Olá! Eu sou Wellington, intitulado como wellpereiradevs 👋
+Desenvolvedor Back-end com conhecimento em Java, Spring e Quarkus. Iniciei os estudos na área de programação em 2021, era apenas um "hobby" até descobrir o fascinante mundo da tecnologia. Ao compreender como todas as coisas são construídas e processadas do início ao fim, encontrei minha paixão em identificar e solucionar problemas, tanto do passado quanto do futuro. A jornada de explorar novos horizontes na programação me conduziu a uma compreensão mais profunda das engrenagens por trás das inovações tecnológicas, não apenas para criar sistemas eficazes, mas também contribuir para a praticidade do cotidiano.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellpereiradevs/)
 
