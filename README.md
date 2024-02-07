@@ -1,7 +1,6 @@
 ### Olá! Bem vindo(a) ao meu github.
 
-Acesse o meu LinkedIn<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellpereiradevs/)
+Para acessar, é só clicar  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellpereiradevs/)
 
 ### Tecnologias que utilizo
 <div style="display: inline_block">
